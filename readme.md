@@ -12,10 +12,12 @@ A brief introduction of your project goes here. You may want to cover the purpos
 - Database: https://deployed-site.whatever
 
 ## Directory Structure
+```
 my-app/
 ├─ backend/
 ├─ frontend/
 │  ├─ ...
+```
 
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
