@@ -22,6 +22,10 @@ Database: https://deployed-site.whatever
     <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
++ key1: [value1](https://tiny-plum-crow-cuff.cyclic.app/)
++ key2: https://tiny-plum-crow-cuff.cyclic.app
++ key3: value3
+
 ## Directory Structure
 ```
 my-app/
