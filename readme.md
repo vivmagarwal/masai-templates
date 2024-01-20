@@ -7,8 +7,6 @@ A brief introduction of your project goes here. You may want to cover the purpos
 - Fullstack
 
 ## Deplolyed App
-
-
 - Frontend: https://tiny-plum-crow-cuff.cyclic.app/
 - Backend: https://nice-outfit-tuna.cyclic.app/users/register
 - Database: https://deployed-site.whatever
