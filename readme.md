@@ -18,7 +18,7 @@ A brief introduction of your project goes here. You may want to cover the purpos
     <dd>Is something people use sometimes.</dd>
 
     <dt>Markdown in HTML</dt>
-    <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+    <dd>[value1](https://tiny-plum-crow-cuff.cyclic.app/)</dd>
 </dl>
 
 + key1: [value1](https://tiny-plum-crow-cuff.cyclic.app/)
