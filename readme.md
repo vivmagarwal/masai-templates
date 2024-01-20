@@ -14,6 +14,14 @@ Backend: https://deployed-site.whatever
 Database: https://deployed-site.whatever
 ---
 
+<dl>
+    <dt>Definition list</dt>
+    <dd>Is something people use sometimes.</dd>
+
+    <dt>Markdown in HTML</dt>
+    <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 ## Directory Structure
 ```
 my-app/
