@@ -9,9 +9,9 @@ A brief introduction of your project goes here. You may want to cover the purpos
 ## Deplolyed App
 
 ---
-- Frontend: https://tiny-plum-crow-cuff.cyclic.app/
-- Backend: https://deployed-site.whatever
-- Database: https://deployed-site.whatever
+Frontend: https://tiny-plum-crow-cuff.cyclic.app/
+Backend: https://deployed-site.whatever
+Database: https://deployed-site.whatever
 ---
 
 ## Directory Structure
