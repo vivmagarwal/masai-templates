@@ -10,7 +10,7 @@ A brief introduction of your project goes here. You may want to cover the purpos
 
 
 - Frontend: https://tiny-plum-crow-cuff.cyclic.app/
-- Backend: https://deployed-site.whatever
+- Backend: https://nice-outfit-tuna.cyclic.app/users/register
 - Database: https://deployed-site.whatever
 
 <dl>
